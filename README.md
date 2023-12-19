@@ -65,6 +65,8 @@ This project is a simple Yoga Admission Form built using React for the frontend 
 - MongoDB is used as the database to store participant information.
 - Ensure that you have MongoDB installed and running locally.
 
+  ER Diagram for our database of yoga admission `https://drive.google.com/file/d/1JTimJG4zWqWrdoU-l3kHfiucSvnS1Nuc/view?usp=sharing`
+
 ## Additional Information
 
 - The form includes fields for name, age, mobile number, email, and preferred batch.
